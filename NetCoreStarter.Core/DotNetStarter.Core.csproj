@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestPractice.Infrustructure\DotNetStarter.Infrustructure.csproj" />
+    <ProjectReference Include="..\NetCoreStarter.Infrustructure\DotNetStarter.Infrustructure.csproj" />
   </ItemGroup>
 
 </Project>

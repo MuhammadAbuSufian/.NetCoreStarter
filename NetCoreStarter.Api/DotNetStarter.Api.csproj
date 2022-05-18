@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestPractice.Core\DotNetStarter.Core.csproj" />
-    <ProjectReference Include="..\TestPractice.Infrustructure\DotNetStarter.Infrustructure.csproj" />
+    <ProjectReference Include="..\NetCoreStarter.Core\DotNetStarter.Core.csproj" />
+    <ProjectReference Include="..\NetCoreStarter.Infrustructure\DotNetStarter.Infrustructure.csproj" />
   </ItemGroup>
 
 </Project>
